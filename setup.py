@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
     name='dilite',
     packages=['dilite'],
-    version='0.1',
+    version='0.0.1',
     description='An extremely light weight DI container',
     author='Chetan Verma',
     author_email='verma.chetan@gmail.com',
