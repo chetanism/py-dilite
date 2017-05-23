@@ -1,6 +1,6 @@
 # Dilite
 
-[![Build Status](https://travis-ci.org/chetanism/dilite.png)](https://travis-ci.org/chetanism/dilite)
+[![Build Status](https://travis-ci.org/chetanism/py-dilite.svg?branch=master)](https://travis-ci.org/chetanism/py-dilite)
 
 An extremely light weight DI container. The goal is to keep `Dilite` light enough that it seems 
 logical to have multiple instances of `Dilite` wired up together in a single application.
